@@ -415,7 +415,7 @@
       </dataPath>
       <handlers>
         <event>OnChange</event>
-        <name>СписокНоменклатурыКоличествоПриИзменении</name>
+        <name>СписокНоменклатурыЦенаПриИзменении</name>
       </handlers>
       <extendedTooltip>
         <name>СписокНоменклатурыЦенаРасширеннаяПодсказка</name>
@@ -469,7 +469,7 @@
       </dataPath>
       <handlers>
         <event>OnChange</event>
-        <name>СписокНоменклатурыКоличествоПриИзменении</name>
+        <name>СписокНоменклатурыПроцентСкидкиПриИзменении</name>
       </handlers>
       <extendedTooltip>
         <name>СписокНоменклатурыПроцентСкидкиРасширеннаяПодсказка</name>
