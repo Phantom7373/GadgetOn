@@ -55,6 +55,7 @@
   <eventSubscriptions>EventSubscription.ЗаписьЗаказаПоставщика</eventSubscriptions>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <constants>Constant.Константа</constants>
+  <constants>Constant.Константа1</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Поставщики</catalogs>
   <catalogs>Catalog.Договоры</catalogs>
